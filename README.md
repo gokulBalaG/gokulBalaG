@@ -3,15 +3,15 @@
 ***
 
 
- 🔭 Area of interests 
-      - Audio signal processing
-      - Networking
-      - Embedded system
+ 🔭 Area of interests <br />
+      + Audio signal processing <br />
+      + Networking < br />
+      + Embedded system <br />
 ***
- 🌱 I’m currently learning 
-      - AVR- Embedded C 
-      - Verilog HDL 
-      - Network programming
+ 🌱 I’m currently learning  <br />
+      + AVR- Embedded C <br />
+      + Verilog HDL <br />
+      + Network programming <br />
  ***
 <!-- - 👯 I’m looking to collaborate on ... 
 - 🤔 I’m looking for help with ... 
