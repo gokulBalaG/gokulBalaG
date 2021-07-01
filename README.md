@@ -1,18 +1,24 @@
 ### Halo! Das ist Gokul👋
 
-
-
-
-- 🔭 I’m currently working on Gesture Controlled home automation (Building a prototype)
 ***
-- 🌱 I’m currently learning <br /> - AVR- Embedded C <br /> - Verilog HDL <br /> - Network programming
+
+
+ 🔭 Area of interests 
+      - Audio signal processing
+      - Networking
+      - Embedded system
+***
+ 🌱 I’m currently learning 
+      - AVR- Embedded C 
+      - Verilog HDL 
+      - Network programming
  ***
 <!-- - 👯 I’m looking to collaborate on ... 
 - 🤔 I’m looking for help with ... 
 - 💬 Ask me about ... -->
-- 📫 How to reach me: gokulbalaji.sjce@gmail.com
+<!-- 📫 How to reach me: gokulbalaji.sjce@gmail.com
 ***
-- 😄 Pronouns: His/Bruder
+😄 Pronouns: His/Bruder
 ***
-- ⚡ Fun fact: Me get random ideas doing random stuffs
+⚡ Fun fact: Me get random ideas doing random stuffs -->
 <!-- -->
