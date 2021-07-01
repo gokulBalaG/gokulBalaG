@@ -3,7 +3,8 @@
 
 
 
-- 🔭 I’m currently working on Gesture Controlled home automation (working o the idea)
+- 🔭 I’m currently working on Gesture Controlled home automation (Building a prototype)
+***
 - 🌱 I’m currently learning <br /> - AVR- Embedded C <br /> - Verilog HDL <br /> - Network programming
  ***
 <!-- - 👯 I’m looking to collaborate on ... 
